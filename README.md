@@ -23,8 +23,8 @@ Na konzolu vypíšte výsledne poradie turnaja od 1. miesta po posledné v tvare
 *poradie. Názov tímu Počet strelených gólov Počet dostaných gólov Počet bodov*
 
 Napríklad:\n
-**1. Kanada 21 7 15**\n
+`**1. Kanada 21 7 15**\n
 **2. Rusko 27 13 14**\n
-atď.
+atď.`
 
 Ak majú dva tímy rovnaký počet bodov, tak vyššie v poradí bude tím, ktorý strelí viac gólov.
