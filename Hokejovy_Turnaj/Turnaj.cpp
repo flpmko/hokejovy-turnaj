@@ -163,6 +163,7 @@ void Turnaj::vypis()
 	{
 		for (int i = 0; i < this->pocetTimov; i++)
 		{
+			cout << i + 1 << ". ";
 			this->zoznam[i]->vypis();
 		}
 	}

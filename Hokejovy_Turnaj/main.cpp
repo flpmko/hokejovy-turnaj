@@ -15,8 +15,8 @@ int main(int argc, char* argv[])
 	cout << "-------PRIEBEH--TURNAJA-------" << endl;
 	turnaj.simulujTurnaj();
 
-	cout << "-------VYSLEDNA--TABULKA-------" << endl;
-	cout << "--tim----S--D--B--" << endl;
+	cout << "\n-------VYSLEDNA--TABULKA-------" << endl;
+	//cout << "--tim----S--D--B--" << endl;
 	turnaj.zorad();
 	turnaj.vypis();
 

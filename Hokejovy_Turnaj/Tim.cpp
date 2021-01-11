@@ -58,7 +58,7 @@ Tim Tim::operator=(const Tim& zdroj)
 
 void Tim::vypis()
 {
-	cout << this->meno << " " << this->strelene << " " << this->dostane << " " << this->body << endl;
+	cout << this->meno << " S:" << this->strelene << " D:" << this->dostane << " B:" << this->body << endl;
 }
 
 Tim::~Tim()
