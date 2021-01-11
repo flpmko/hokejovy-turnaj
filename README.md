@@ -11,30 +11,30 @@ Predpokladajte, že v textovom súbore jeden riadok obsahuje jeden názov. Meno 
 ## Zápis do súboru
 Do súboru zapíšte výsledky všetkých zápasov v tvare:
 
-	*Názov 1.tímu* : *Názov 2. tímu*
+	Názov 1.tímu : Názov 2. tímu
 
-	*počet strelených gólov* : *počet strelených gólov*
+	počet strelených gólov : počet strelených gólov
 
 ### Napríklad:
-	**Slovensko : Rusko**
+	Slovensko : Rusko
 
-	**1 : 4**
+	1 : 4
 
 ## Výpis na konzolu
 
 Výsledky zápasov každého kola vypisujte na konzole v tvare:
 
-	*krajina (vygenerovaná hodnota)* – *krajina (vygenerovaná hodnota)*
+	krajina (vygenerovaná hodnota) – krajina (vygenerovaná hodnota)
 
 Na konzolu vypíšte výsledne poradie turnaja od 1. miesta po posledné v tvare:
 
-	*poradie. Názov tímu Počet strelených gólov Počet dostaných gólov Počet bodov*
+	poradie. Názov tímu Počet strelených gólov Počet dostaných gólov Počet bodov
 
 ### Napríklad:
-	**1. Kanada 21 7 15**
+	1. Kanada 21 7 15
 
-	**2. Rusko 27 13 14**
+	2. Rusko 27 13 14
 
-	**atď.**
+	atď.
 
 Ak majú dva tímy rovnaký počet bodov, tak vyššie v poradí bude tím, ktorý strelí viac gólov.
