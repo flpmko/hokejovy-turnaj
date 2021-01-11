@@ -1,9 +1,8 @@
 # Hokejový turnaj
-Vytvorte projekt pre konzolovú aplikáciu, v ktorom
-	 vytvorte triedy a algoritmy ktoré budú pre simuláciu hokejového turnaja. 
-	 Z textového súboru načítajte názvy 6 štátov, ktorých tímy budú v turnaji. Predpokladajte, že v textovom súbore jeden riadok obsahuje jeden názov. 
-	 Meno vstupného súboru sa bude zadávať ako parameter štartu programu.
-	 
+Vytvorte projekt pre konzolovú aplikáciu, v ktorom vytvorte triedy a algoritmy ktoré budú pre simuláciu hokejového turnaja.
+Z textového súboru načítajte názvy 6 štátov, ktorých tímy budú v turnaji.
+Predpokladajte, že v textovom súbore jeden riadok obsahuje jeden názov.Meno vstupného súboru sa bude zadávať ako parameter štartu programu.
+
 Simulácia turnaja:
 V turnaji bude hrať každý tím s každým tímom 1 zápas.
 Víťaza zápasu určite tak, že pre každý tím v zápase vygenerujete náhodné číslo z intervalu **<0, 10>**,
@@ -16,10 +15,10 @@ Do súboru zapíšte výsledky všetkých zápasov v tvare:
 Napríklad:
 **Slovensko : Rusko**
 **1 : 4**
- 	
+
 Výsledky zápasov každého kola vypisujte na konzole v tvare:
 *krajina (vygenerovaná hodnota)* – *krajina (vygenerovaná hodnota)*
-	
+
 Na konzolu vypíšte výsledne poradie turnaja od 1. miesta po posledné v tvare:
 *poradie. Názov tímu Počet strelených gólov Počet dostaných gólov Počet bodov*
 
