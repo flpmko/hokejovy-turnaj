@@ -10,15 +10,13 @@ ktoré bude predstavovať počet strelených gólov v zápase. Za víťazstvo z�
 
 Do súboru zapíšte výsledky všetkých zápasov v tvare:
 
-`*Názov 1.tímu* : *Názov 2. tímu*
-
-*počet strelených gólov* : *počet strelených gólov*`
+`*Názov 1.tímu* : *Názov 2. tímu*`
+`*počet strelených gólov* : *počet strelených gólov*`
 
 Napríklad:
 
-`**Slovensko : Rusko**
-
-**1 : 4**`
+`**Slovensko : Rusko**`
+`**1 : 4**`
 
 Výsledky zápasov každého kola vypisujte na konzole v tvare:
 
@@ -30,10 +28,8 @@ Na konzolu vypíšte výsledne poradie turnaja od 1. miesta po posledné v tvare
 
 Napríklad:
 
-`**1. Kanada 21 7 15**
-
-**2. Rusko 27 13 14**
-
-atď.`
+`**1. Kanada 21 7 15**`
+`**2. Rusko 27 13 14**`
+`atď.`
 
 Ak majú dva tímy rovnaký počet bodov, tak vyššie v poradí bude tím, ktorý strelí viac gólov.
