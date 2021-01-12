@@ -1,2 +1,3 @@
 ﻿  main.cpp
+C:\Users\flpmk\source\repos\Hokejovy_Turnaj_Solution\Hokejovy_Turnaj\main.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Hokejovy_Turnaj.vcxproj -> C:\Users\flpmk\source\repos\Hokejovy_Turnaj_Solution\Debug\Hokejovy_Turnaj.exe
